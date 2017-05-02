@@ -1,0 +1,1 @@
+{"gatthash":-1361934370,"services":[{"uuid":"0x180A","name":"Device Information","characteristics":[{"uuid":"0x2A29","name":"Manufacturer Name String","format":"0x19","access":"r"}]}]}
